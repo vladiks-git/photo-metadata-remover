@@ -1,0 +1,15 @@
+{
+  "name": "phoro-remover-meta-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "fs-extra": "^11.3.4",
+    "path": "^0.12.7",
+    "sharp": "^0.34.5"
+  }
+}
